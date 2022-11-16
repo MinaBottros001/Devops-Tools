@@ -18,7 +18,6 @@ chmod +x prerequisites.sh
 
 ## Step 2: Build the infrastructure for Kasten
 
-Find the infrastructure for Kasten in the following [URL](https://github.com/johnbedeir/Devops-Tools-Documentation/tree/main/Cluster-Backup/Terraform_S3-Bucket_IAM-User) and follow the steps in the readme file.
 
 ## Step 3: Deploy Kasten
 
